@@ -1,1 +1,5 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter base measurement:- 1
+Enter height measurement:- 2
+Area of triangle is 0.5 * 1.00 * 2.00 =1.00
